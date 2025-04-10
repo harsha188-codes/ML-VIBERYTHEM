@@ -16,7 +16,7 @@ a) Real time facial emotion detection & prediction using CNN
 -Later, the model was validated on a dataset of over 7,000+ greyscale annotated images.
 -The Training accuracy was 72.32% and the validation accuracy was 61.34%.
 -The plotss for accuracy and loss are:
-![accuracy   loss graphs](https://github.com/prashiljatakiya/Emotion-based-Music-recommendation-system/assets/92420541/49cca8f7-3602-4829-8ba6-029f03a978ef)
+![accuracy   loss graphs](assests/graphs.png)
 
 
 b)Knowledge Grapg Representation & Song Recommendation
@@ -27,7 +27,7 @@ b)Knowledge Grapg Representation & Song Recommendation
 
 
 The outputs of the system are:
-![detect emotion 2](https://github.com/prashiljatakiya/Emotion-based-Music-recommendation-system/assets/92420541/a4039a01-c023-49fd-b1dd-8e7fb85c424c)
-![list of recommended songs](https://github.com/prashiljatakiya/Emotion-based-Music-recommendation-system/assets/92420541/e0eb5ba3-e3d0-4dfc-ac7d-faf2cd004a2d)
+![detect emotion 2](assests/output.png)
+![list of recommended songs](assests/image.png)
 
-![image](https://github.com/prashiljatakiya/Emotion-based-Music-recommendation-system/assets/92420541/b868022a-0b0d-47c8-9c11-8b3281f5adba)
+![image](assests/knowledege.png)
